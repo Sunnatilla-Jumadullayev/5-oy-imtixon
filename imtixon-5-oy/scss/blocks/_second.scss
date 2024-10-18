@@ -1,0 +1,25 @@
+.second {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 88px;
+}
+
+.second__card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 250px;
+}
+
+.second__title {
+  font-size: 15px;
+  font-weight: 700;
+  margin-top: 20px;
+} /*# sourceMappingURL=main.css.map */
+.second__text {
+  font-size: 13px;
+}
